@@ -14,10 +14,13 @@
   "dependencies": {
     "@headlessui/react": "^1.7.3",
     "@heroicons/react": "^2.0.12",
-    "@privy-io/react-auth": "1.54.0",
+    "@privy-io/react-auth": "^1.59.7",
     "@tailwindcss/forms": "^0.5.3",
+    "@wagmi/chains": "^1.8.0",
+    "ethers": "^6.11.1",
     "next": "latest",
-    "react": "18.2.0"
+    "react": "18.2.0",
+    "viem": "^2.9.25"
   },
   "devDependencies": {
     "@tsconfig/next": "^2.0.0",
